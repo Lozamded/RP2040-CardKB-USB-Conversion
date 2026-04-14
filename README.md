@@ -1,7 +1,6 @@
 # RP2040 - CardKB-USB-Conversion
 
-Use to convert a CardKB to USB Keyboard
-Tested on Linux, Windows, OSX and Android
+Use to convert a CardKB to USB Keyboard using a RP2040 board (Zero recomended)  compatible with linux, windows and android
 
 ![Conection](images/Conection.png)
 
